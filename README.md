@@ -1,2 +1,2 @@
 # MbajShenimetApp
-### @pbcAcademy Mobile App Development Training
+### @pbcAcademy - Mobile App Development Training
